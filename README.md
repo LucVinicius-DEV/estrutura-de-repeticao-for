@@ -34,14 +34,13 @@ Ideal para quem está começando e deseja reforçar o entendimento com exemplos 
    Calcula o fatorial de um número inteiro positivo.  
    Arquivo: `FatorialSimples.java`
 
-5. **Divisores de N**
-Mostra todos os divisores inteiros positivos de um número.
-Arquivo: ˋDivisores.javaˋ
+5. **Divisores de N**  
+   Mostra todos os divisores inteiros positivos de um número.  
+   Arquivo: `Divisores.java`
 
-
-6. **Potências em linha**
-Imprime uma sequência com o número, seu quadrado e seu cubo até N.
-Arquivo: PotenciasEmLinha.java
+6. **Potências em linha**  
+   Imprime uma sequência com o número, seu quadrado e seu cubo até N.  
+   Arquivo: `PotenciasEmLinha.java`
 
 
 ---
