@@ -57,21 +57,30 @@ Ideal para quem está começando e deseja reforçar o entendimento com exemplos 
 
 ## ▶️ Como executar os códigos
 
-1. Compile o arquivo desejado:
+1. Abra o terminal na pasta do projeto.
 
-2. Execute o programa
 
-3. Certifique-se de que o Java esteja instalado e os arquivos estejam na mesma pasta.
+2. Compile o arquivo desejado:
+
+`javac NomeDoArquivo.java`
+
+
+3. Execute o programa:
+
+`java Main`
+
+
+
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com suporte técnico da parceira virtual Luna.
+Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com a mentoria da Luna.
 
 
 ---
 
-⭐ Gostou do projeto?
+## ⭐ Gostou do projeto?
 
-Deixe uma estrela no repositório e acompanhe o progresso no LinkedIn e no GitHub!
+Deixe uma estrela no repositório e acompanhe o progresso no LinkedIn e GitHub!
