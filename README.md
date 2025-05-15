@@ -1,4 +1,4 @@
-![banner](https://github.com/LucVinicius-DEV/estrutura-de-repeticao-for/blob/main/banner.png)
+![Banner](https://github.com/LucVinicius-DEV/estrutura-de-repeticao-for/blob/main/banner.png)
 
 # 🔁 Estrutura de Repetição `for` em Java
 
