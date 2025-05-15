@@ -1,86 +1,32 @@
-![Banner](./banner.png)
+![banner](https://github.com/LucVinicius-DEV/estrutura-de-repeticao-for/blob/main/banner.png)
 
-# 🔁 Estrutura de Repetição FOR em Java
+# 🔁 Estrutura de Repetição `for` em Java
 
-Repositório com exercícios práticos resolvidos utilizando a estrutura de repetição `for` em Java.  
-Ideal para quem está começando e deseja reforçar o entendimento com exemplos simples e funcionais.
-
----
-
-## ✨ O que você vai encontrar aqui
-
-- Exercícios com enunciado e código comentado;
-- Aplicações de contadores, verificações e operações matemáticas com `for`;
-- Nomes de arquivos organizados por tema;
-- Lógica simples e didática, ideal para iniciantes.
+Repositório com exemplos práticos do uso da estrutura de repetição `for` na linguagem Java. Ideal para iniciantes que desejam entender como automatizar execuções com base em contadores definidos.
 
 ---
 
-## 📚 Exercícios disponíveis
+## 📚 Projeto disponível
 
-1. **Impressão de ímpares até X**  
-   Mostra todos os números ímpares de 1 até X.  
-   Arquivo: `ImpressaoImpares.java`
-
-2. **Contagem de intervalos**  
-   Conta quantos valores estão dentro e fora do intervalo [10, 20].  
-   Arquivo: `IdentificarIntervalos.java`
-
-3. **Divisão de pares**  
-   Lê N pares e imprime o resultado da divisão, tratando divisões por zero.  
-   Arquivo: `DivisaoPares.java`
-
-4. **Fatorial de N**  
-   Calcula o fatorial de um número inteiro positivo.  
-   Arquivo: `FatorialSimples.java`
-
-5. **Divisores de N**  
-   Mostra todos os divisores inteiros positivos de um número.  
-   Arquivo: `Divisores.java`
-
-6. **Potências em linha**  
-   Imprime uma sequência com o número, seu quadrado e seu cubo até N.  
-   Arquivo: `PotenciasEmLinha.java`
-
+- [LAÇO `FOR`](./src) — Exercícios simples e didáticos para demonstrar o funcionamento do `for` com contadores, incrementos e condições variadas.
 
 ---
 
-## 🧱 Conceitos aplicados
+## 🛠️ Tecnologias Utilizadas
 
-- Estrutura de repetição `for`
-- Operadores aritméticos e condicionais
-- Leitura de dados com `Scanner`
-- Tratamento de divisões
-- Fatorial com controle de laço
+- Java
+- IntelliJ IDEA
+- Git & GitHub
 
 ---
 
-## ▶️ Como executar os códigos
+# 🔄 Estrutura `for`
 
-1. Abra o terminal na pasta do projeto.
+Exercícios desenvolvidos com o objetivo de consolidar o uso do laço `for`, essencial para repetições controladas em blocos de código.
 
+## ✨ Funcionalidades
 
-2. Compile o arquivo desejado:
-
-`javac NomeDoArquivo.java`
-
-
-3. Execute o programa:
-
-`java Main`
-
-
-
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com a mentoria da Luna.
-
-
----
-
-## ⭐ Gostou do projeto?
-
-Deixe uma estrela no repositório e acompanhe o progresso no LinkedIn e GitHub!
+- Execução repetitiva de instruções com base em contadores.
+- Uso de incrementos e decrementos no laço.
+- Integração com entrada de dados.
+- Base para exercícios mais avançados com lógica
